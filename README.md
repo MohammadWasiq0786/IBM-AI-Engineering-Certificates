@@ -16,9 +16,7 @@ This is 6 courses series
 
 ### Specialization Certificate
 
-![certificate](<img width="694" alt="image" src="https://github.com/user-attachments/assets/2c272b36-1adc-4aca-8e42-696a8edaf0e7">)
+![certificate](https://github.com/MohammadWasiq0786/IBM-Full-Stack-Software-Developer-Professional-Certificate/blob/main/Certificates/Certificate.png)
 
 ### Badge
-
-![badge](<img width="445" alt="image" src="https://github.com/user-attachments/assets/8197ef3f-6bdb-450c-aaea-41027f1966ae">
-)
+![badge](https://github.com/MohammadWasiq0786/IBM-Full-Stack-Software-Developer-Professional-Certificate/blob/main/Certificates/Badge.png)
