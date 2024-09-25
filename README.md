@@ -1,4 +1,4 @@
-# IBM Full Stack Software Developer Professional Certificate
+# IBM AI Engineering Professional Certificate
 
 This is 6 courses series
 
